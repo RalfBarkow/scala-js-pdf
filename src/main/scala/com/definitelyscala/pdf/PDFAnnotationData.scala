@@ -2,7 +2,7 @@ package com.definitelyscala.pdf
 
 import scala.scalajs.js
 
-  // [x, y]
+// [x, y]
 @js.native
 trait PDFAnnotationData extends js.Object {
   var subtype: String = js.native

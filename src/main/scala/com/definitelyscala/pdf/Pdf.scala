@@ -28,10 +28,10 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 */
   /**
- * RenderTask is basically a promise but adds a cancel function to termiate it.
- **/
+   * RenderTask is basically a promise but adds a cancel function to termiate it.
+   */
   /**
- * A PDF document and page is built of many objects.  E.g. there are objects for fonts, images, rendering code and such.  These objects might get processed inside of a worker.  The `PDFObjects` implements some basic functions to manage these objects.
- **/
+   * A PDF document and page is built of many objects.  E.g. there are objects for fonts, images, rendering code and such.  These objects might get processed inside of a worker.  The `PDFObjects` implements some basic functions to manage these objects.
+   */
   var PDFJS: PDFJSStatic = js.native
 }

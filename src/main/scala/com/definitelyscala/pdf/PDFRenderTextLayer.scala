@@ -2,7 +2,7 @@ package com.definitelyscala.pdf
 
 import scala.scalajs.js
 
-  // ... todo
+// ... todo
 @js.native
 trait PDFRenderTextLayer extends js.Object {
   def beginLayout(): Unit = js.native

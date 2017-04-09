@@ -2,7 +2,7 @@ package com.definitelyscala.pdf
 
 import scala.scalajs.js
 
-  // todo
+// todo
 @js.native
 trait PDFPageViewportOptions extends js.Object {
   var viewBox: js.Any = js.native
