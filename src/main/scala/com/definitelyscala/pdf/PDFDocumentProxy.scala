@@ -1,8 +1,8 @@
 package com.definitelyscala.pdf
 
 import scala.scalajs.js
-import org.scalajs.dom.raw._
 import scala.scalajs.js.typedarray._
+import scala.scalajs.js.Promise
 
 @js.native
 trait PDFDocumentProxy extends js.Object {
